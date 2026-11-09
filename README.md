@@ -15,7 +15,6 @@
 | [**Reverse image search**](https://github.com/Ilyeshaddad337/image-search) | CLIP + pgvector product image search as an isolated microservice. |
 | [**Nabra Speech Studio**](https://github.com/Ilyeshaddad337/nabra-speech-studio) | Arabic text-to-speech on a 7.5M-param model, FastAPI + React, real-time factor ≈ 0.07 on CPU. |
 | [**Security writeup scraper**](https://github.com/Ilyeshaddad337/security-writeup-scraper) | Builds a CVE / bug-bounty / CTF corpus for retrieval-augmented agents. |
-| [**CTF writeups**](https://github.com/Ilyeshaddad337/ctfwriteups) | Writeups for challenges I've solved. |
 
 ### Outreach & lead-generation automation
 
