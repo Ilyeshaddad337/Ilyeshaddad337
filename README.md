@@ -17,6 +17,17 @@
 | [**Security writeup scraper**](https://github.com/Ilyeshaddad337/security-writeup-scraper) | Builds a CVE / bug-bounty / CTF corpus for retrieval-augmented agents. |
 | [**CTF writeups**](https://github.com/Ilyeshaddad337/ctfwriteups) | Writeups for challenges I've solved. |
 
+### Outreach & lead-generation automation
+
+A cold-outreach pipeline I built for freelance work — scrape leads, enrich them, reach out.
+
+| Tool | What it is |
+|---|---|
+| [**gmaps-lead-scraper**](https://github.com/Ilyeshaddad337/gmaps-lead-scraper) | Playwright scraper for Google Maps business leads (name, phone, site, email) by keyword. |
+| [**social-extractor**](https://github.com/Ilyeshaddad337/social-extractor) | Django + Scrapling crawler that pulls social links, emails and phones from websites. |
+| [**profile-finder**](https://github.com/Ilyeshaddad337/profile-finder) | Django app that finds leads' Instagram profiles via the Brave Search API. |
+| [**whatsapp-campaigns**](https://github.com/Ilyeshaddad337/whatsapp-campaigns) | Templated WhatsApp outreach sender — Baileys backend + Django campaign manager. |
+
 ### Stack
 
 `Python` `Django` `FastAPI` · `LangGraph` `LiteLLM` `n8n` · `OpenRouter` `OpenAI` `Gemini` `DeepSeek` · `ChromaDB` `pgvector` `CLIP` · `PostgreSQL` `Redis` `Celery` `Docker` · `Burp Suite` `Metasploit`
